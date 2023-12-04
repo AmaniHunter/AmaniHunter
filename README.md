@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amanihunter">
+  <a href="https://www.linkedin.com/in/amani-hunter">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
