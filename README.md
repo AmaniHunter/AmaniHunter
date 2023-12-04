@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Amani Hunter 👋</h1>
-<h3 align="center">A passionate Software Engineer and Creator of PetHunter, STEMate, and BuddyAR</h3>
+<h3 align="center">A passionate software engineer and innovator, creator of PetHunter, STEMate, and BuddyAR.</h3>
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/stemate/id1499232769">
@@ -42,7 +42,7 @@ Dedicated to connecting furry friends with their future families through innovat
 ### 🤝 Connect with Me
 
 - 💬 Ask me about iOS development, cloud computing, or anything tech-related.
-- 📫 How to reach me: `your-email@example.com`
+- 📫 How to reach me: `amanikhunter@gmail.com`
 
 ---
 
