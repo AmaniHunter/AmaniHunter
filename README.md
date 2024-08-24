@@ -38,10 +38,20 @@ Dedicated to connecting furry friends with their future families through innovat
 
 ---
 
-### 🤝 Connect with Me
+### 📈 GitHub Stats
 
-- 💬 Ask me about iOS development, cloud computing, or anything tech-related.
-- 📫 How to reach me: `amanikhunter@gmail.com`
+![Amani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaniHunter&show_icons=true&theme=dark)
+
+### 📊 My Recent GitHub Activity
+
+<!-- GitHub Activity Tracker -->
+[![Amani's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmaniHunter&theme=react-dark)](https://github.com/AmaniHunter)
+
+### ✍️ Recent Commits
+
+<!-- GitHub Recent Commits -->
+[![Amani's Recent GitHub Commits](https://github-readme-commits.vercel.app/api?username=AmaniHunter&count=5&theme=dark)](https://github.com/AmaniHunter)
+
 
 ---
 
