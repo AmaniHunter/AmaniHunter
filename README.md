@@ -40,7 +40,7 @@ Dedicated to connecting furry friends with their future families through innovat
 
 ### 📈 GitHub Stats
 
-![Amani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaniHunter&show_icons=true&theme=dark)
+![amanihunter's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanihunter&theme=dracula&hide_border=false)
 
 ### 📊 My Recent GitHub Activity
 
