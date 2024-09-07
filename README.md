@@ -16,12 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amani-hunter">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</p>
-
 ---
 
 ### 📱 My Current Apps on the Apple App Store
