@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Amani Hunter 👋</h1>
-<h3 align="center">A passionate software engineer and innovator, creator of PetHunter, STEMate, and BuddyAR. </h3>
+<h1 align="center">Amani Hunter</h1>
+<h3 align="center">creator of PetHunter, STEMate, and BuddyAR. </h3>
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/stemate/id1499232769">
@@ -24,7 +24,7 @@ I've created apps available on the App Store. Take a look:
 - [**STEMate**](https://apps.apple.com/us/app/stemate/id1499232769) - A digital lab partner, aiding lab scientists with essential calculations.
 - [**BuddyAR**](https://apps.apple.com/us/app/buddy-ar/id1462207664) - An Augmented Reality game that transforms the gaming experience by integrating the player's environment.
 
-### 🐾 PetHunter Initiative
+### 🐾 PetHunter Platform
 
 Dedicated to connecting furry friends with their future families through innovative technology.
 
