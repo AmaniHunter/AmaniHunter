@@ -1,5 +1,6 @@
 <h1 align="center">Amani Hunter</h1>
 <h3 align="center">creator of PetHunter, STEMate, and BuddyAR. </h3>
+<h3 align="center">Open Source iOS contributor @ Wikipedia. </h3> 
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/stemate/id1499232769">
@@ -27,6 +28,7 @@ I've created apps available on the App Store. Take a look:
 ### 🐾 PetHunter Platform
 
 Dedicated to connecting furry friends with their future families through innovative technology.
+Click the video to learn more.
 
 [![PetHunter Video](http://img.youtube.com/vi/oA8SA5WYa-U/0.jpg)](http://www.youtube.com/watch?v=oA8SA5WYa-U "PetHunter - An Innovative Pet Adoption Platform")
 
@@ -41,15 +43,6 @@ Dedicated to connecting furry friends with their future families through innovat
 <!-- GitHub Activity Tracker -->
 [![Amani's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmaniHunter&theme=react-dark)](https://github.com/AmaniHunter)
 
-### ✍️ Recent Commits
-
-<!-- GitHub Recent Commits -->
-[![Amani's Recent GitHub Commits](https://github-readme-commits.vercel.app/api?username=AmaniHunter&count=5&theme=dark)](https://github.com/AmaniHunter)
-
-
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
-  <p><b>Happy coding!</b></p>
 </div>
