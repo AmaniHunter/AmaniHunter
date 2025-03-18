@@ -33,10 +33,6 @@ Click the video to learn more.
 
 ---
 
-### 📈 GitHub Stats
-
-![amanihunter's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanihunter&theme=dracula&hide_border=false)
-
 ### 📊 My Recent GitHub Activity
 
 <!-- GitHub Activity Tracker -->
