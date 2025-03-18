@@ -33,11 +33,6 @@ Click the video to learn more.
 
 ---
 
-### 📊 My Recent GitHub Activity
-
-<!-- GitHub Activity Tracker -->
-[![Amani's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmaniHunter&theme=react-dark)](https://github.com/AmaniHunter)
-
 ---
 
 </div>
